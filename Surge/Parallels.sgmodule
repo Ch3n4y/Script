@@ -1,5 +1,5 @@
-#!name=Paralles Desktop 禁止更新
-#!desc=Paralles Desktop 禁止更新
+#!name=Paralles Desktop disable update
+#!desc=禁止更新 Paralles Desktop 
 #!system=mac
 
 [Rule]
