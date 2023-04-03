@@ -1,5 +1,5 @@
 #!name=AdGuard Home DNS
-!desc=启用
+#!desc=启用 AdGuard Home DNS
 
 [General]
 dns-server = 192.168.27.2
