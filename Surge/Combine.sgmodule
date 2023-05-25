@@ -1,5 +1,5 @@
 #!name=Combine Rule
 #!desc=个人自定义规则
 
-[Rule]
-RULE-SET,https://raw.githubusercontent.com/Ch3n4y/script/main/Rule/OpenAI.list,SG
+[General]
+skip-proxy = %APPEND% *.gzhu.app, gzhu.app
