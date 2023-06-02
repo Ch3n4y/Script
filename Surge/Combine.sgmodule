@@ -2,4 +2,5 @@
 #!desc=个人自定义规则
 
 [Rule]
+DOMAIN-SUFFIX,githubusercontent.com,Proxy
 RULE-SET,https://raw.githubusercontent.com/Ch3n4y/script/main/Rule/OpenAI.list,SG
