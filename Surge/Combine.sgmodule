@@ -2,7 +2,7 @@
 #!desc=个人自定义规则
 
 [Rule]
-DOMAIN-SUFFIX,githubusercontent.com,Proxy
+DOMAIN-SUFFIX,githubusercontent.com,Proxies
 
 [General]
 skip-proxy = %APPEND% *.gzhu.app, gzhu.app
